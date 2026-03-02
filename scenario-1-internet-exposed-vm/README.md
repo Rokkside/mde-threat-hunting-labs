@@ -79,7 +79,8 @@ Configured custom detection rule in MDE to:
 - Full process tree captured
 - Timeline investigation performed
 
-![image](https://github.com/user-attachments/assets/86806eae-4290-4479-b111-fac6c631db92)
+<img width="668" height="245" alt="Screenshot 2026-03-02 at 11 21 46 AM" src="https://github.com/user-attachments/assets/9d5a4c89-5877-483b-894a-1127c3e921d9" />
+
 
 ## 📊 Investigation Findings
 
