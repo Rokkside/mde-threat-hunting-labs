@@ -35,6 +35,7 @@ These labs mirror real-world SOC workflows including:
 
 ## 🏗 Lab Architecture
 
+<img width="482" height="268" alt="Screenshot 2026-03-02 at 10 47 00 AM" src="https://github.com/user-attachments/assets/79b158a5-4a64-40d4-8ab8-d58ee69295bd" />
 
 ---
 
@@ -80,6 +81,7 @@ Simulates a Windows VM exposed to the internet with firewall disabled for contro
 
 ## 📂 Repository Structure
 
+<img width="482" height="268" alt="Screenshot 2026-03-02 at 10 48 02 AM" src="https://github.com/user-attachments/assets/86888a6c-8b07-469e-9376-4a9943c70542" />
 
 
 ---
