@@ -9,9 +9,7 @@ This lab mirrors real-world SOC detection engineering and incident response work
 ---
 
 ## 🏗 Lab Architecture
-
-
-
+<img width="554" height="253" alt="Screenshot 2026-03-02 at 11 19 13 AM" src="https://github.com/user-attachments/assets/3ac83b38-9c91-4279-9df5-58fbdba41f89" />
 ---
 
 ## 🖥️ Environment Configuration
@@ -80,6 +78,8 @@ Configured custom detection rule in MDE to:
 - Alert generated in Microsoft 365 Defender
 - Full process tree captured
 - Timeline investigation performed
+
+<img width="668" height="245" alt="Screenshot 2026-03-02 at 11 21 46 AM" src="https://github.com/user-attachments/assets/197578a1-d63d-46c8-b46c-976010914625" />
 
 ## 📊 Investigation Findings
 
