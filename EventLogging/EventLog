@@ -1,1 +1,0 @@
-Set-NetFirewallRule -DisplayGroup "Remote Event Log Management" -Enabled True -Profile Domain

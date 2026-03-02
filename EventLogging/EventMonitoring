@@ -1,1 +1,0 @@
-Set-NetFirewallRule -DisplayGroup "Remote Event Monitor" -Enabled True -Profile Domain
