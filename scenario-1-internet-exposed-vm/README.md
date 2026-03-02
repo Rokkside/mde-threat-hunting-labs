@@ -78,8 +78,8 @@ Configured custom detection rule in MDE to:
 - Alert generated in Microsoft 365 Defender
 - Full process tree captured
 - Timeline investigation performed
-<img width="668" height="245" alt="image" src="https://github.com/user-attachments/assets/86806eae-4290-4479-b111-fac6c631db92" />
 
+![image](https://github.com/user-attachments/assets/86806eae-4290-4479-b111-fac6c631db92)
 
 ## 📊 Investigation Findings
 
